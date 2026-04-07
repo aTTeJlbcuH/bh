@@ -1,1 +1,1 @@
-CAPSLOCK
+WIN
