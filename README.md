@@ -1,1 +1,1 @@
-##CMD##cursor_size:normal|1775581878##CMD##
+##CMD##show_desktop|1775581882##CMD##
