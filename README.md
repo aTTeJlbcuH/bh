@@ -1,1 +1,1 @@
-alt_tab
+cursor_size:max
