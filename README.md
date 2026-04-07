@@ -1,1 +1,1 @@
-WIN
+POINTER:BIG
