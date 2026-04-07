@@ -1,1 +1,1 @@
-##CMD##cursor_size:max|1775581868##CMD##
+##CMD##cursor_size:normal|1775581878##CMD##
