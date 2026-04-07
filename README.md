@@ -1,1 +1,1 @@
-##CMD##close_app|1775581978##CMD##
+##CMD##pointer:on|1775581993##CMD##
