@@ -1,1 +1,1 @@
-##CMD##win_key|1775581903##CMD##
+##CMD##caps_lock|1775581926##CMD##
